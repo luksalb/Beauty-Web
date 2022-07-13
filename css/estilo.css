@@ -1,0 +1,89 @@
+body{
+	background: #d2d2c1 url('../img/fundo.jpg');
+	font: 16px Arial, Helvetica, sans-serif;
+}
+
+#principal {
+	width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#menu {
+	
+    background: #4b566a;
+	padding: 18px;
+}
+
+#conteudo {
+	background: #e7e7e2;
+	padding: 10px;
+}
+
+#rodape {
+	text-align: center;
+}
+
+#menu a {
+	color: #f1f1ee;
+	text-decoration: none;
+	font-weight: bold;
+	padding: 5px;
+}
+
+#menu a:hover {
+	color: #94948b;
+	text-decoration: none;
+	font-weight: bold;
+	padding: 5px;
+}
+
+
+.controls a {
+	color: #2e2e2a;
+	text-decoration: none;
+	font-weight: bold;
+    font-size: 1.5em ;
+	padding: 5px;
+}
+
+.controls a {
+	color: #2e2e2a;
+	text-decoration: none;
+	font-weight: bold;
+    font-size: 1.5em ;
+	padding: 5px;
+}
+
+.controls a:hover {
+	color: #94948b;
+	text-decoration: none;
+	font-weight: bold;
+    font-size: 1.5em ;
+	padding: 5px;
+}
+
+
+.centralizar {
+	text-align: center;
+}
+
+.img-campanha {
+	border: 10px solid #4b566a;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+    padding: 5px;
+}
+
+#img-contato {
+    border: 5px solid #444442;
+    padding: 5px;
+}
+
+h1 {
+	color: #444442;
+	font-size: 1.2em;
+}
+
